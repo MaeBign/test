@@ -1,0 +1,6 @@
+
+-->possibility to set size of img/video
+
+->add a sort of banner in index that show the 3 last uploaded img
+
+->fix this awful css (pain)
